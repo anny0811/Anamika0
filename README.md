@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" with="400" src="https://share.google/qTvYZ7XXFOmoZtG5w".
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anny0811&label=Profile%20views&color=0e75b6&style=flat" alt="anny0811" /> </p>
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/anamika-b99633331](www.linkedin.com/in/anamika-b99633331)
 
